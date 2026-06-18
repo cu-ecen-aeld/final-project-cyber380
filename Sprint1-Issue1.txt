@@ -1,0 +1,22 @@
+Title: Setup Secure File Transfer Project Repository
+
+Assigned To: Anushka Banerjee
+
+Description:
+Initialize the project repository and create the documentation required for Sprint 1.
+
+Definition of Done (DoD):
+- Repository initialized
+- README added
+- Project Overview completed
+- Schedule page completed
+- Changes committed to GitHub
+
+Status:
+Open
+
+Priority:
+High
+
+Sprint:
+Sprint 1

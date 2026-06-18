@@ -1,0 +1,22 @@
+Title: Define Sensor Monitoring Module
+
+Assigned To: Anushka Banerjee
+
+Description:
+Design the sensor monitoring module responsible for collecting and processing data from connected devices.
+
+Definition of Done (DoD):
+- Sensor requirements identified
+- Monitoring workflow documented
+- Module design completed
+- Documentation updated
+- Changes committed to GitHub
+
+Status:
+Open
+
+Priority:
+Medium
+
+Sprint:
+Sprint 1

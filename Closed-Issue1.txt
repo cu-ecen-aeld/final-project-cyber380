@@ -1,0 +1,26 @@
+Title: Repository Setup and Initial Documentation
+
+Assigned To: Anushka Banerjee
+
+Description:
+Created the project repository and added the initial documentation required for Sprint 1. The repository structure was organized and the required project pages were created.
+
+Definition of Done (DoD):
+- Repository created successfully
+- README.md added
+- Home page created
+- Project Overview page created
+- Schedule page created
+- Files uploaded and committed to GitHub
+
+Work Completed:
+The project repository was initialized and all required documentation pages were added. The repository is now ready for future development and sprint activities.
+
+Status:
+Closed
+
+Sprint:
+Sprint 1
+
+Completion Date:
+19 June 2026
