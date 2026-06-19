@@ -1,0 +1,15 @@
+Project Title: Embedded Linux Driver Project
+
+Objective:
+Develop and test Linux kernel modules using Yocto and Buildroot environments.
+
+Current Status:
+Repository setup completed.
+Development in progress.
+Testing planned for upcoming sprint.
+
+Expected Deliverables:
+- Working kernel modules
+- Build and deployment scripts
+- Documentation
+- Test results
